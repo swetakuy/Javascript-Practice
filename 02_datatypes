@@ -1,0 +1,24 @@
+ "use strict"; // treat all js code as newewr version
+
+
+ //alert( 3 + 3) we are using node js not browser thats why this cant generate any output when you can move on browser after inpect we run this statement its working
+//Code should be readable 
+
+
+
+let name = "sweta"// its a string datatype
+let age = 18 // its an number 
+let isLoggedIn  = false// its a boolean type
+
+
+
+/* TYPES OF DATATYPE
+Number
+string = ""
+boolean= true/false
+null= standalone value
+undefined
+symbol = for uniqueness we mostly used in react 
+object*/
+
+console.log(typeof "sweta");// its show the type of the datatypes
